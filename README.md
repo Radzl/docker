@@ -58,7 +58,7 @@ docker rmi imagen -> Elimina una imagen
 
 ## Instalación y Ejecución de un Contenedor Interesante
 
-### Contenedor Seleccionado: Apache HTTP Server (`httpd`)
+### Contenedor Seleccionado: Apache HTTP Server
 
 #### ¿Porqué Apache?
 
